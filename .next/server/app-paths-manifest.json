@@ -1,0 +1,9 @@
+{
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/download/page": "app/admin/download/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/api/download/app/route": "app/api/download/app/route.js",
+  "/page": "app/page.js",
+  "/user/[subsystem]/page": "app/user/[subsystem]/page.js",
+  "/user/requirements/page": "app/user/requirements/page.js"
+}
